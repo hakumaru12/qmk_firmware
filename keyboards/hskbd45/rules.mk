@@ -1,0 +1,9 @@
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+BOOTLOADER = caterina
+SPLIT_KEYBOARD = yes
+SERIAL_DRIVER = bitbang
+LTO_ENABLE = yes
+ENCODER_ENABLE = yes
+
