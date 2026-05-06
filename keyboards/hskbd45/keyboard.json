@@ -46,7 +46,11 @@
     },
     "encoder": {
         "rotary": [
+<<<<<<< HEAD
             {"pin_a": "B5", "pin_b": "B4"} 
+=======
+            {"pin_a": "B5", "pin_b": "B4","resolution": 4} 
+>>>>>>> 08399f13fc68ed8011ed16941ca2ba23021bf2ae
             ]
     },
     "split": {
@@ -60,7 +64,11 @@
         "encoder": {
             "right": {
                 "rotary": [
+<<<<<<< HEAD
                     {"pin_a": "B5", "pin_b": "B4"}
+=======
+                    {"pin_a": "B5", "pin_b": "B4","resolution": 2}
+>>>>>>> 08399f13fc68ed8011ed16941ca2ba23021bf2ae
                 ]
                 
             }

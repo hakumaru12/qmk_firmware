@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hskbd45
 
 ![hskbd45](imgur.com image replace me!)
@@ -25,3 +26,13 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+=======
+HSKBD45 — QMK keyboard source
+
+This folder contains the QMK keyboard definition and VIA keymap for HSKBD45 (Pro Micro).
+
+Files:
+- keyboard.json — metadata
+- keymaps/via/* — VIA keymap
+- rules.mk — build options
+>>>>>>> 08399f13fc68ed8011ed16941ca2ba23021bf2ae
